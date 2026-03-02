@@ -1,7 +1,4 @@
 # Predicción de Abandono de Clientes (Customer Churn)
-
-Práctica de la asignatura de Análisis Inteligente de Datos.
-
 ## Descripción general
 En este proyecto se aborda un problema de clasificación supervisada utilizando el dataset [**Telco Customer Churn**](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data).
 El objetivo es predecir si un cliente de una compañía de telecomunicaciones abandonará el servicio (churn) en función de sus características contractuales y de consumo.
