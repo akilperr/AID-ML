@@ -14,3 +14,10 @@ Desarrollar y comparar distintos modelos de Machine Learning para predecir la va
 - La elección de métricas adecuadas
 - El rendimiento de diferentes modelos
 
+## Entorno de trabajo (Cachy OS)
+- python3.12 -m venv env
+- source env/bin/activate.fish
+- pip install --upgrade pip
+- pip install pandas numpy matplotlib seaborn scikit-learn jupyterlab
+- pip freeze > requirements.txt
+- jupyter lab
